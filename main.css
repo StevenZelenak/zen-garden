@@ -1,0 +1,5 @@
+body {
+    background-image: repeating-linear-gradient(180deg, white,#ccc 1px,
+        white, #dbdbdb 1px);
+        
+}
